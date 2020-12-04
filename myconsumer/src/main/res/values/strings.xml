@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DICODING-My Consumer</string>
+    <string name="fullname">fullname</string>
+    <string name="username">username</string>
+    <string name="following">%s Following</string>
+    <string name="follower">%s Follower</string>
+    <string name="following_vp">Following</string>
+    <string name="follower_vp">Follower</string>
+    <string name="repository">%s Repository</string>
+    <string name="det_following">%s Following</string>
+    <string name="det_username">\@%s</string>
+    <string name="location">\Location: %s</string>
+    <string name="company">\Company: %s</string>
+    <string name="bt_exit">Exit</string>
+    <string name="alert">No data favorite record</string>
+
+</resources>

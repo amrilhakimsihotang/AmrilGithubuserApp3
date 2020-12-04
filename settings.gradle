@@ -1,0 +1,3 @@
+include ':myconsumer'
+include ':app'
+rootProject.name = "Amril GithubuserApp3"

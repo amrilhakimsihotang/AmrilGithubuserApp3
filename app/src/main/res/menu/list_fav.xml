@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/adduser"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        app:showAsAction="always"
+        android:id="@+id/bt_adddata"/>
+    <item
+        android:title="@string/favorite"
+        android:icon="@drawable/ic_baseline_view_list_24"
+        app:showAsAction="always"
+        android:iconTint="@android:color/black"
+        android:id="@+id/bt_favorite"/>
+
+    <item
+        android:title="@string/share"
+        android:icon="@drawable/ic_baseline_share_24"
+        app:showAsAction="always"
+        android:iconTint="@android:color/black"
+        android:id="@+id/bt_share"/>
+</menu>

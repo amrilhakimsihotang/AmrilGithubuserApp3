@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DICODING</string>
+    <string name="fullname">Nama</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="following">%s Mengikuti</string>
+    <string name="follower">%s Pengikut</string>
+    <string name="following_vp">Mengikuti</string>
+    <string name="follower_vp">Pengikut</string>
+    <string name="repository">%s Repositori</string>
+    <string name="det_following">%s Mengikuti</string>
+    <string name="det_username">\@%s</string>
+    <string name="location">\Lokasi: %s</string>
+    <string name="company">\Perusahaan: %s</string>
+    <string name="bt_exit">Keluar</string>
+    <string name="alert">Tidak ada data favorit tersimpan</string>
+</resources>

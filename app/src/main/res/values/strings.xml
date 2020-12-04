@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DICODING-BFAA 2020</string>
+    <string name="fullname">fullname</string>
+    <string name="username">username</string>
+    <string name="following">%s Following</string>
+    <string name="follower">%s Follower</string>
+    <string name="following_vp">Following</string>
+    <string name="follower_vp">Follower</string>
+    <string name="repository">%s Repository</string>
+    <string name="det_following">%s Following</string>
+    <string name="det_username">\@%s</string>
+    <string name="location">\Location: %s</string>
+    <string name="company">\Company: %s</string>
+    <string name="set_language">Eng - Ind</string>
+    <string name="bt_exit">Exit</string>
+    <string name="message_alert">The username you entered does not match with database github. Please enter username again.</string>
+    <string name="title_alert">Data Unfound</string>
+    <string name="bt_alert_yes">Yes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bt_web">Web Dicoding</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="adduser">Add Favorite</string>
+    <string name="number">1</string>
+    <string name="alert_delete">Successfully to delete</string>
+    <string name="alert_delete_title">Delete data</string>
+    <string name="alert_delete_confirm">Are you sure delete this data from favorite list?</string>
+    <string name="alert_success_add">Successfully to added data user github</string>
+    <string name="reminder">Reminder: 09:00 A.M</string>
+    <string name="title_reminder">Set Reminder</string>
+    <string name="preference_file_key">Reminder</string>
+    <string name="status_reminder">Status Reminder</string>
+    <string name="title_home">Home</string>
+    <string name="delete">Delete</string>
+    <string name="title_about">About Me</string>
+    <string name="content_about">Amril Hakim Sihotang.\nKelas Android Fundamental</string>
+    <string name="daf_favorit">List User Favorite</string>
+    <string name="share_message">Hello...\n Please follow this account github -> </string>
+
+
+</resources>

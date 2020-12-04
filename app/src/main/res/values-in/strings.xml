@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DICODING</string>
+    <string name="fullname">Nama</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="following">%s Mengikuti</string>
+    <string name="follower">%s Pengikut</string>
+    <string name="following_vp">Mengikuti</string>
+    <string name="follower_vp">Pengikut</string>
+    <string name="repository">%s Repositori</string>
+    <string name="det_following">%s Mengikuti</string>
+    <string name="det_username">\@%s</string>
+    <string name="location">\Lokasi: %s</string>
+    <string name="company">\Perusahaan: %s</string>
+    <string name="set_language">Ind - Eng</string>
+    <string name="bt_exit">Keluar</string>
+    <string name="message_alert">Username yang kamu masukkan tidak sesuai di database github. Silahkan masukkan usernamenya.</string>
+    <string name="title_alert">Data tidak ditemukan</string>
+    <string name="bt_alert_yes">OK</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bt_web">Web Dicoding</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="adduser">Add Favorite</string>
+    <string name="number">1</string>
+    <string name="alert_delete">Berhasil hapus data</string>
+    <string name="alert_delete_title">Hapus data</string>
+    <string name="alert_delete_confirm">Kamu yakin akan menghapus seluruh data Favorit?</string>
+    <string name="alert_success_add">Sukses tambah data user github</string>
+    <string name="reminder">Reminder: 09:00 A.M</string>
+    <string name="title_reminder">Aktifkan Reminder</string>
+    <string name="preference_file_key">Reminder</string>
+    <string name="status_reminder">Status Reminder</string>
+    <string name="title_home">Beranda</string>
+    <string name="delete">Hapus</string>
+    <string name="title_about">Tentang Saya</string>
+    <string name="content_about">Amril Hakim Sihotang.\nKelas Android Fundamental</string>
+    <string name="daf_favorit">Daftar Favorit User</string>
+    <string name="share_message">Hello...\n Silahkan ikuti akun github ini ya -> </string>
+</resources>
